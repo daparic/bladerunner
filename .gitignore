@@ -1,0 +1,4 @@
+.parasoft.dat/ 
+.vs/
+x64/
+**/.cpptest/
