@@ -2,7 +2,7 @@
 #include <cstdlib>
 #include "mycfg.h"
 
-extern "C" int addnum(int, int);
+extern "C" int do_ops(int, int);
 
 #ifdef CFG_GLOBAL
 int padding[8];

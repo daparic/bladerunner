@@ -1,6 +1,6 @@
 #include "mycfg.h"
 
-int addnum(int a, int b) {
+int do_ops(int a, int b) {
     if (a == 31) {
         return a + b + 13;
     }
