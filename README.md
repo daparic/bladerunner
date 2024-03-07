@@ -7,4 +7,8 @@
 # Tips
 ```
 git config --global core.autocrlf true
+
+# preview first
+git clean -X -dfn
+git clean -X -df # then do clean-up
 ```
