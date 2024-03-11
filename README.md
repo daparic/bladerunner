@@ -2,6 +2,7 @@
 - master - Visual Studio 2022 project
 - vs2015 - Visual Studio 2015 project
 - vs2019 - Visual Studio 2019 project
+- bigobj-linux - Simulating OOM during SA in Linux 16G RAM
 
 
 # Tips
