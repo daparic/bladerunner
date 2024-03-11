@@ -2,6 +2,9 @@
 #include <cstdlib>
 #include "mycfg.h"
 
+extern "C" unsigned char shape_predictor_5_face_landmarks_dat[];
+extern "C" unsigned int shape_predictor_5_face_landmarks_dat_len;
+
 extern "C" int do_ops(int, int);
 
 #ifdef CFG_GLOBAL

@@ -12,3 +12,6 @@ git config --global core.autocrlf true
 git clean -X -dfn
 git clean -X -df # then do clean-up
 ```
+
+# bigobj-linux
+Add Parasoft IDE tech support option: `CPPTEST_ENGINE_EXTRA_ARGS="-J-Xmx8192m"`
