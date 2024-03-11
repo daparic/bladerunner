@@ -7,6 +7,7 @@ int do_ops(int a, int b) {
     return a + b;
 }
 
+#if CPPTEST_INIT_QT
 void cc_example1(int a, int b) // 11
 {
      switch (a) {
@@ -29,4 +30,4 @@ void cc_example1(int a, int b) // 11
      {
      } while (0);
 }
-
+#endif
