@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="..\src\helper.c" />
     <ClCompile Include="..\src\main.cpp" />
+    <ClCompile Include="..\src\shape_predictor_5_face_landmarks.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\src\mycfg.h" />
