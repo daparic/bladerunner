@@ -13,3 +13,5 @@ git config --global core.autocrlf true
 git clean -X -dfn
 git clean -X -df # then do clean-up
 ```
+
+# Krakow Login Test
